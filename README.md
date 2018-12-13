@@ -1,2 +1,2 @@
-# 3jlc2424-3jlc2424.github.io-
+# website for learning
 A website for project management practice
